@@ -1,5 +1,3 @@
-# Hallo, ich bin Duncan 👋
-
 **IT-Quereinsteiger mit Fokus auf Azure-Administration, Identity und IT-Support – Raum Stuttgart.**
 
 Nach acht Jahren als Zeitsoldat (Infanterie, zwei Auslandseinsätze, u. a. UN-Mission MINUSMA) bringe ich mit, was im IT-Betrieb zählt: unter Druck strukturiert Fehler eingrenzen, sauber dokumentieren und Verantwortung für das eigene System übernehmen. Seit 2026 baue ich diese Arbeitsweise gezielt in der IT auf – mit einem eigenen Homelab statt nur mit Theorie.
