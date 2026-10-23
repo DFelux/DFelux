@@ -24,7 +24,7 @@ Jedes Projekt dokumentiert nicht nur das Ergebnis, sondern auch **was schiefging
 - ✅ Google IT Support Professional Certificate
 - ✅ Google Cybersecurity Certificate
 - 🔄 Microsoft Azure Administrator (AZ-104) – Prüfung geplant 01/2027
-- 🎯 Danach: SC-200 → AZ-500 (Richtung Cloud Security)
+- 🎯 Danach: SC-200 → SC-500 (Cloud and AI Security Engineer)
 
 ## 📫 Kontakt
 
