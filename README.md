@@ -18,9 +18,13 @@ Jedes Projekt dokumentiert nicht nur das Ergebnis, sondern auch **was schiefging
 
 ## 🎓 Zertifikate & Weiterbildung
 
+- ✅ Microsoft Applied Skill: Configure secure access to your workloads using Azure networking – 10/2026 · [Nachweis](https://learn.microsoft.com/api/credentials/share/en-us/DeltaFoxtrott-0582/4C47EA4B98013D7E?sharingId=D06E3A222B5653EA)
+- ✅ Microsoft Applied Skill: Entra Identities & Access – 10/2026
+- ✅ Microsoft Applied Skill: Cloud Security & Monitoring – 10/2026
 - ✅ Microsoft Azure Fundamentals (AZ-900) – 2026
 - ✅ Google IT Support Professional Certificate
 - ✅ Google Cybersecurity Certificate
+- ✅ Google AI Fundamentals
 - 🔄 Microsoft Azure Administrator (AZ-104) – Prüfung geplant 01/2027
 - 🎯 Danach: SC-500 → SC-200 (Cloud and AI Security Engineer)
 
