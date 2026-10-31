@@ -21,6 +21,7 @@ Jedes Projekt dokumentiert nicht nur das Ergebnis, sondern auch **was schiefging
 - ✅ Microsoft Applied Skill: Configure secure access to your workloads using Azure networking – 10/2026 · [Nachweis](https://learn.microsoft.com/api/credentials/share/en-us/DeltaFoxtrott-0582/4C47EA4B98013D7E?sharingId=D06E3A222B5653EA)
 - ✅ Microsoft Applied Skill: Entra Identities & Access – 10/2026 · [Nachweis](https://learn.microsoft.com/api/credentials/share/en-us/DeltaFoxtrott-0582/3D1318379BA9B5F8?sharingId=D06E3A222B5653EA)
 - ✅ Microsoft Applied Skill: Cloud Security & Monitoring – 10/2026 · [Nachweis](https://learn.microsoft.com/api/credentials/share/en-us/DeltaFoxtrott-0582/EEC49279A6346480?sharingId=D06E3A222B5653EA)
+- ✅ Microsoft Applied Skill: Deploy and configure Azure Monitor – 10/2026 · [Nachweis](https://learn.microsoft.com/api/credentials/share/en-us/DeltaFoxtrott-0582/DF8ACBB5CA6FEB0C?sharingId=D06E3A222B5653EA)
 - ✅ Microsoft Azure Fundamentals (AZ-900) – 2026
 - ✅ Google IT Support Professional Certificate
 - ✅ Google Cybersecurity Certificate
