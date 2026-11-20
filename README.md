@@ -37,4 +37,3 @@ Jedes Projekt dokumentiert nicht nur das Ergebnis, sondern auch **was schiefging
 
 Offen für Einstiegspositionen als **Junior Cloud Administrator, Systemadministrator oder IT-Support** im Raum Stuttgart – verfügbar ab sofort.
 
-Ab 02/2027 Umschulung zum **Fachinformatiker für Systemintegration**: gesucht wird ein **Praktikumsbetrieb** für die Praxisphase (8 Monate, Ziel Übernahme).
