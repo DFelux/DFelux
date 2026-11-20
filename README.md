@@ -7,14 +7,15 @@ Nach acht Jahren als Zeitsoldat (Infanterie, zwei Auslandseinsätze, u. a. UN-Mi
 | Projekt | Worum es geht | Highlights |
 |---|---|---|
 | [**hybrid-identity-lab**](https://github.com/DFelux/hybrid-identity-lab) | On-Prem-AD an Microsoft Entra ID angebunden | Entra Connect (PHS), Hybrid Join, MFA, RBAC mit Custom Role, Tags & Locks, 5 dokumentierte Fehleranalysen |
-| [**it-infrastructure-lab**](https://github.com/DFelux/it-infrastructure-lab) | Mini-Unternehmensnetz mit Service-Desk | Windows Server 2022 / AD DS / DNS / GPO, Zammad per Docker, interne CA + TLS (nginx), ufw-Firewall, NIS2-/ISO-27001-Mapping |
+| [**it-infrastructure-lab**](https://github.com/DFelux/it-infrastructure-lab) | Mini-Unternehmensnetz mit Service-Desk | Windows Server 2022 / AD DS / DNS / GPO, Zammad per Docker, interne CA + TLS (nginx), ufw-Firewall, Veeam-Backup & Restore (Bare Metal Recovery getestet), NIS2-/ISO-27001-Mapping |
+| [**oracle-cloud-lab**](https://github.com/DFelux/oracle-cloud-lab) | Öffentlich erreichbarer Linux-Server in der Oracle Cloud | Oracle Linux 9 (RHEL-Familie), 2 Störungsanalysen mit Path Analyzer, Monitoring und Console History, Ursache belegt (OOM), Speicher-Tuning, SSH-Härtung |
 | [**az104-automation-lab**](https://github.com/DFelux/az104-automation-lab) | Azure-Umgebung per PowerShell aufbauen | Idempotente Az-Skripte, `-WhatIf`, VNet/NSG/Storage/VM ohne Public IP, Monitoring, Tagging |
 
 Jedes Projekt dokumentiert nicht nur das Ergebnis, sondern auch **was schiefging und wie ich es gelöst habe** – inklusive Logs, Befehlen und Screenshots.
 
 ## 🧰 Werkzeuge
 
-`Azure` · `Microsoft Entra ID` · `Active Directory` · `Windows Server 2022` · `Windows 11` · `PowerShell (Az)` · `Bicep/ARM (Grundlagen)` · `Ubuntu Server` · `Docker Compose` · `nginx` · `DNS / DHCP / TCP/IP` · `Zammad`
+`Azure` · `Microsoft Entra ID` · `Active Directory` · `Windows Server 2022` · `Windows 11` · `PowerShell (Az)` · `Bicep/ARM (Grundlagen)` · `Ubuntu Server` · `Oracle Linux 9 / RHEL` · `Oracle Cloud (OCI)` · `systemd` · `firewalld` · `Veeam` · `Docker Compose` · `nginx` · `DNS / DHCP / TCP/IP` · `Zammad`
 
 ## 🎓 Zertifikate & Weiterbildung
 
@@ -35,3 +36,5 @@ Jedes Projekt dokumentiert nicht nur das Ergebnis, sondern auch **was schiefging
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-duncan--felux-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duncan-felux)
 
 Offen für Einstiegspositionen als **Junior Cloud Administrator, Systemadministrator oder IT-Support** im Raum Stuttgart – verfügbar ab sofort.
+
+Ab 02/2027 Umschulung zum **Fachinformatiker für Systemintegration**: gesucht wird ein **Praktikumsbetrieb** für die Praxisphase (9,5 Monate, Ziel Übernahme).
